@@ -1,10 +1,5 @@
 # MyShop
 
-This is an older Java project uploaded for reference.
-Parts of the code were not originally written by me.
-
-# MyShop
-
 **MyShop** is a simple Java console application that models basic shopping functionality — handling orders, products, peripherals and sales.
 
 > This is an older Java project uploaded for reference. Parts of the code were not originally written by me.
